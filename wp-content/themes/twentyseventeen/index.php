@@ -56,8 +56,8 @@ get_header(); ?>
 				);
 
 			else :
-
-				get_template_part( 'template-parts/post/content', 'none' );
+				//No te olvides quitar este comentarioooooooooooooooooooooooooooooooo
+				// get_template_part( 'template-parts/post/content', 'none' ); 
 
 			endif;
 			?>
